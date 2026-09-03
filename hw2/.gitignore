@@ -1,0 +1,4 @@
+.venv
+chroma_*
+*/__pycache__
+memory_db
