@@ -1,0 +1,3 @@
+.venv
+agent/__pycache__
+demo_memory_store.json

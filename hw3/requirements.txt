@@ -1,0 +1,7 @@
+# 默认的 MockLLMClient 不需要任何依赖，可直接运行 demo。
+# 如果要连接真实 LLM（OpenAI 官方 API 或 Ollama 的 OpenAI 兼容接口），取消下面这行注释：
+openai>=1.30.0
+
+# 运行测试用（可选）
+pytest>=7.0.0
+python-dotenv>=1.0.0
