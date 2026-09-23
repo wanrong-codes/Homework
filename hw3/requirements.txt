@@ -5,3 +5,7 @@ openai>=1.30.0
 # 运行测试用（可选）
 pytest>=7.0.0
 python-dotenv>=1.0.0
+
+# MCP Server 集成 + LangGraph 多智能体工作流
+mcp>=1.9.0,<2.0.0
+langgraph>=0.2.0
