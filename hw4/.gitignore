@@ -1,0 +1,6 @@
+.venv
+.env
+data
+gateway/__pycache__
+mcp_server/__pycache__
+tests/__pycache__

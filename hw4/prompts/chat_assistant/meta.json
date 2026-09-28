@@ -1,0 +1,10 @@
+{
+  "active": "v1",
+  "experiment": {
+    "enabled": true,
+    "weights": {
+      "v1": 50.0,
+      "v2": 50.0
+    }
+  }
+}
